@@ -1,0 +1,39 @@
+/* navbar styling */
+.header-wrapper .navbar{
+    background-color: #05369f;
+}
+.header-wrapper .navbar-brand{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.navbar-nav li a{
+    color: white;
+    font-size: large;
+    font-weight: normal;
+}
+
+.navbar li a:hover{
+    color:gray;
+}
+
+.navbar li .active{
+    color: grey !important;
+}
+
+/* carousel styling */
+.carousel{
+    margin-top: 60px;
+    background-color: #05369f;
+}
+
+
+.bottom-nav{
+    background-color: #05369f;
+   
+}
+
+.footer-widget{
+    background-color: #05369f;
+}
